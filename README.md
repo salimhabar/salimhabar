@@ -1,25 +1,38 @@
-# 💫 About Me:
-<br>
-My name is Salim, a 24-year-old Flutter Developer from Katihar District, Bihar, India. I come from a small village background and a financially struggling family, which has shaped my mindset to work hard, stay grounded, and continuously strive for growth — not just for myself but for my entire family.
+## 👋 About Me
 
-I currently have around 4 years of professional experience in mobile application development using Flutter. I started my professional journey in Feb 2022 and since then I have been actively working on building scalable, user-friendly, and performance-driven mobile applications. I enjoy writing clean code, solving real-world problems through technology, and continuously upgrading my technical skills.
+Hi, I'm **Salim** — a Flutter Developer from Katihar District, Bihar, India 🇮🇳
 
-At present, I am working in a company based in Dubai, which is helping me support my family and improve our financial condition. However, I am ambitious and growth-oriented — I aim to switch to better opportunities that offer stronger career growth, higher salary, and a healthier work environment.
+I come from a small village background and a financially struggling family, which has shaped my mindset to work hard, stay grounded, and continuously strive for growth — not just for myself but for my family.
 
-Coming from a rural environment where early marriages and limited career exposure are common, I take pride in choosing a different path — focusing on career building, financial stability, and long-term success before anything else.
+* 💼 4 years of experience in **Flutter & Dart**
+* 📱 Building scalable, user-friendly mobile applications
+* 🧠 Strong focus on clean architecture & performance optimization
+* 🚀 Passionate about solving real-world problems through technology
 
-**Core Strengths**
+I started my professional journey in **Feb 2022**, and since then I’ve been actively working on production-level apps and development tools.
+
+Currently, I’m working with a Dubai-based company, supporting my family and improving our financial condition — while aiming for bigger opportunities, better growth, and global exposure.
+
+---
+
+### 🔧 Core Skills
 
 * Flutter & Dart Development
-* Mobile App Architecture & Optimization
-* Problem Solving & Debugging
-* Continuous Learning Mindset
-* Family-driven Financial Goals
+* Mobile App Architecture
+* App Performance Optimization
+* Debugging & Problem Solving
+* Development Workflow Automation
 
-**Life Goal**
-My biggest goal in life is to uplift my family from financial struggles to a stable and prosperous position, while building a successful career and eventually my own business.
+---
 
-I believe in patience, consistency, and self-made growth — step by step.
+### 🎯 Life Goal
+
+My biggest goal is to uplift my family from financial struggles to a stable and prosperous position, while building a successful tech career and launching my own business in the future.
+
+---
+
+⭐ *I believe in patience, consistency, and self-made growth — step by step.*
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salim.ali.habar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salim_habar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salim-habar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@salimhabar.2001) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19561143) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HabarSalim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salimhabar.2001@gmail.com) 
