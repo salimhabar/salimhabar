@@ -4,7 +4,7 @@ Hi, I'm **Salim** — a Flutter Developer from Katihar District, Bihar, India �
 
 I come from a small village background and a financially struggling family, which has shaped my mindset to work hard, stay grounded, and continuously strive for growth — not just for myself but for my family.
 
-* 💼 4 years of experience in **Flutter & Dart**
+* 💼 4+ years of experience in **Flutter & Dart**
 * 📱 Building scalable, user-friendly mobile applications
 * 🧠 Strong focus on clean architecture & performance optimization
 * 🚀 Passionate about solving real-world problems through technology
